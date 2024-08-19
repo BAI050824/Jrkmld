@@ -32,4 +32,3 @@ Follow these steps to install and set up the project:
 
 1. **Clone the Repository**
 
-   git clone https://github.com/username/project-repo.git
